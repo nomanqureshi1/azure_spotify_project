@@ -1,0 +1,9 @@
+{
+	"name": "adfazure1414",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "",
+		"tenantId": ""
+	}
+}
